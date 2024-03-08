@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "mBLA: Model-Based Learning Analytics",
+    "section": "",
+    "text": "Home\n    Resources"
+  },
+  {
+    "objectID": "resources.html#software",
+    "href": "resources.html#software",
+    "title": "mBLA: Model-Based Learning Analytics",
+    "section": "Software",
+    "text": "Software\n\neDidaktikum (2023) 24,731 students, teachers, educational managers and lecturers use eDidaktikum on a daily basis, to collect and share materials and discuss learning and teaching. Source Code: https://github.com/centre-for-educational-technology/edidaktikum\nVara (2023) A H5P-based platform to orchestrate learning activities in classrooms. Source Code: https://github.com/centre-for-educational-technology/vara\nlaPills (2023) A feedback gathering system for classroom teaching practices. Source Code: https://github.com/centre-for-educational-technology/la_pills\nTinda (2022) A platform to assess digital competencies of teachers in Estonia. Source Code: https://github.com/centre-for-educational-technology/tinda\nEzTest (2021) A lightweigh student testing system. Source Code: https://github.com/centre-for-educational-technology/EzTest"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Model-Based Learning Analytics",
+    "section": "",
+    "text": "We are an interdisciplinary research group based within Center of Education Technology at Tallinn University.\nThe group is contributing to the field of human-centered LA by taking an integrative and interdisciplinary perspective. We refer to our approach as model-based learning analytics, where the model is referring to pedagogical-psychological concepts that allows us to integrate use of multimodal data from learning situations, evidence-based pedagogical designs and an approach to teacher professional development.\n\n\n\nImage:www.freepik.com"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "mBLA: Model-Based Learning Analytics",
+    "section": "",
+    "text": "Home\n    Research"
+  },
+  {
+    "objectID": "research.html#research-topics",
+    "href": "research.html#research-topics",
+    "title": "mBLA: Model-Based Learning Analytics",
+    "section": "Research Topics",
+    "text": "Research Topics\n\nLearning Science\n\nPedagogical approaches for developing HOTS – Currently, we are researching to build a pedagogical-psychological model to assist teachers in the development of higher-order thinking skills among students.\n\n\n\nMultimodal Learning Analytics\n\nCollaboration quality – We investigate the potential of multimodal data (e.g., audio, video, logs) towards understanding collaboration behavior in classrooms. We build technological support for teachers based on our investigation utilizing multimodal data with machine learning techniques.\n\n\n\nTeacher Professional Development\n\nTeacher training – We build effective teacher training programs based on our research with a focus on pedagogical aspects in the context of the technology-enhanced learning environment."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "mBLA: Model-Based Learning Analytics",
+    "section": "",
+    "text": "Home\n    Contact"
+  },
+  {
+    "objectID": "contact.html#visit-us",
+    "href": "contact.html#visit-us",
+    "title": "mBLA: Model-Based Learning Analytics",
+    "section": "Visit Us",
+    "text": "Visit Us\nThe mBLA research group is located in A-317 which is the Center of Education Technology at Tallinn University in Estonia.\n\nAddress : Tallinn University, Narva mnt. 29, 10120, Tallinn, Estonia"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Home\n    Publications\n  \n\n\nPublications\n\n\n[1] Pankaj Chejara, Reet Kasepalu, Luis P. Prieto, María Jesús Rodríguez-Triana, Adolfo Ruiz Calleja, and Bertrand Schneider. How well do collaboration quality estimation models generalize across authentic school contexts? British Journal of Educational Technology 0, 1–23. https://doi.org/10.1111/bjet.13402\n\n\n[2] Pankaj Chejara, Reet Kasepalu, Luis P Prieto, Marı́a Jesús Rodrı́guez-Triana, and Adolfo Ruiz-Calleja. 2024. Bringing collaborative analytics using multimodal data to the masses: Evaluation and design guidelines for developing a MMLA system for research and teaching practices in CSCL. (2024).\n\n\n[3] Pankaj Chejara, Luis P. Prieto, Maria Jesus Rodriguez-Triana, Reet Kasepalu, Adolfo Ruiz-Calleja, and Shashi Kant Shankar. 2023. How to build more generalizable models for collaboration quality? Lessons learned from exploring multi-context audio-log datasets using multimodal learning analytics. In LAK23: 13th international learning analytics and knowledge conference (LAK2023), 2023. Association for Computing Machinery, New York, NY, USA, 111–121. https://doi.org/10.1145/3576050.3576144\n\n\n[4] Pankaj Chejara, Luis P Prieto, Marı́a Jesús Rodrı́guez-Triana, Adolfo Ruiz-Calleja, Reet Kasepalu, Irene-Angelica Chounta, and Bertrand Schneider. 2023. Exploring indicators for collaboration quality and its dimensions in classroom settings using multimodal learning analytics. In European conference on technology enhanced learning, 2023. Springer, 60–74.\n\n\n[5] Reet Kasepalu, Pankaj Chejara, Luis P Prieto, and Tobias Ley. 2022. Do teachers find dashboards trustworthy, actionable and useful? A vignette study using a logs and audio dashboard. Technology, Knowledge and Learning 27, 3 (2022), 971–989.\n\n\n[6] Reet Kasepalu, Pankaj Chejara, Luis P Prieto, and Tobias Ley. 2023. Studying teacher withitness in the wild: Comparing a mirroring and an alerting and guiding dashboard for collaborative learning. International Journal of Computer-Supported Collaborative Learning 18, 0 (2023), 575–606. https://doi.org/10.1007/s11412-023-09414-z\n\n\n[7] Reet Kasepalu, Luis P Prieto, Tobias Ley, and Pankaj Chejara. 2022. Teacher artificial intelligence-supported pedagogical actions in collaborative learning coregulation: A wizard-of-oz study. In Frontiers in education, 2022. Frontiers, 736194.\n\n\n[8] Tobias Ley, Kairit Tammets, Gerti Pishtari, Pankaj Chejara, Reet Kasepalu, Mohammad Khalil, Merike Saar, Iiris Tuvi, Terje Väljataga, and Barbara Wasson. 2023. Towards a partnership of teachers and intelligent learning technology: A systematic literature review of model-based learning analytics. Journal of Computer Assisted Learning 39, 5 (2023), 1397–1417.\n\n\n[9] Kairit Tammets and Tobias Ley. 2023. Integrating AI tools in teacher professional learning: A conceptual model and illustrative case. Frontiers in Artificial Intelligence 6, (2023)."
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "mBLA: Model-Based Learning Analytics",
+    "section": "",
+    "text": "Kairit Tammets  Principal Investigator  Tallinn University  {{&lt; fa link &gt;}} {{&lt; fa brands google &gt;}}\n\n\n\n\n\n\n\nMart Laanpere  Senior Research Staff Tallinn University  Tallinn, Estonia  {{&lt; fa link &gt;}} {{&lt; fa brands google &gt;}}\n\n\n\n\n\nTerje Väljataga  Senior Research Staff  Tallinn University  Tallinn, Estonia  {{&lt; fa link &gt;}} {{&lt; fa brands google &gt;}}\n\n\n\n\n\nTobias Ley  Senior Research Staff Tallinn University  Tallinn, Estonia  {{&lt; fa link &gt;}} {{&lt; fa brands google &gt;}}\n\n\n\n\n\n\n\nMaria Jesus Rodriguez Triana  Senior Research Staff Tallinn University  Tallinn, Estonia  {{&lt; fa link &gt;}} {{&lt; fa brands google &gt;}}\n\n\n\n\n\nLuis P. Prieto  Senior Research Staff  Universidad De Valladolid  Valladolid, Spain  {{&lt; fa link &gt;}} {{&lt; fa brands google &gt;}}\n\n\n\n\n\nReet Kasepalu  Research Staff Tallinn University  Tallinn, Estonia  {{&lt; fa link &gt;}}\n\n\n\n\n\n\n\nJüri Kurvits  Research Staff Tallinn University  Tallinn, Estonia  {{&lt; fa link &gt;}}\n\n\n\n\n\nManisha Khulbe  Research Staff  Tallinn University  Tallinn, Estonia  {{&lt; fa link &gt;}} {{&lt; fa brands google &gt;}}\n\n\n\n\n\nPjotr Savitski  Senior Software Developer Tallinn University  Tallinn, Estonia  {{&lt; fa link &gt;}}\n\n\n\n\n\n\n\nJörgen Ivar Sikk  Research Staff Tallinn University  Tallinn, Estonia  {{&lt; fa link &gt;}}\n\n\n\n\n\nEdna Milena Sarmiento Marquez  Research Staff  Tallinn University  Tallinn, Estonia  {{&lt; fa link &gt;}} {{&lt; fa brands google &gt;}}\n\n\n\n\n\nPankaj Chejara  Research Staff Tallinn University  Tallinn, Estonia  {{&lt; fa link &gt;}} {{&lt; fa brands google &gt;}}"
+  }
+]

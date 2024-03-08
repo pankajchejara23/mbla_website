@@ -1,0 +1,41 @@
+---
+pagetitle: "Resources "
+toc: true
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Resources</li>
+  </ol>
+</nav>
+```
+
+
+
+## Software
+
+
+- **eDidaktikum** (2023)<br /> 
+ 24,731 students, teachers, educational managers and lecturers use eDidaktikum on a daily basis,
+to collect and share materials and discuss learning and teaching.<br />
+  *Source Code:* <https://github.com/centre-for-educational-technology/edidaktikum>
+ 
+- **Vara** (2023)<br /> 
+ A H5P-based platform to orchestrate learning activities in classrooms.<br />
+  *Source Code:* <https://github.com/centre-for-educational-technology/vara>
+ 
+- **laPills** (2023)<br /> 
+ A feedback gathering system for classroom teaching practices.<br />
+  *Source Code:* <https://github.com/centre-for-educational-technology/la_pills>
+
+- **Tinda** (2022)<br /> 
+ A platform to assess digital competencies of teachers in Estonia.<br />
+  *Source Code:* <https://github.com/centre-for-educational-technology/tinda>
+
+- **EzTest** (2021)<br /> 
+ A lightweigh student testing system.<br />
+  *Source Code:* <https://github.com/centre-for-educational-technology/EzTest>
+
+

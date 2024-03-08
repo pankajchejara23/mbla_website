@@ -1,0 +1,18 @@
+---
+pagetitle: "mBLA"
+title: "Model-Based Learning Analytics"
+# page-layout: full
+toc: false
+---
+
+::: {.lead}
+  We are an interdisciplinary research group based within [Center of Education Technology](https://web.htk.tlu.ee/htk/){.text-primary .fw-bolder} at [Tallinn University](https://www.tlu.ee){.text-primary  .fw-bolder}. 
+
+
+  The group is contributing to the field of [human-centered LA]{.text-info .fw-bolder} by taking an integrative and interdisciplinary perspective. We refer to our approach as [model-based learning analytics]{.text-info  .fw-bolder}, where the [model is referring to pedagogical-psychological concepts]{.text-info  .fw-bolder} that allows us to integrate use of multimodal data from learning situations, evidence-based pedagogical designs and an approach to teacher professional development.
+  
+:::
+
+![](./img/edm.jpg){.hero}
+<div class="text-end">[Image:www.freepik.com]{.img-attr .text-end .text-secondary}</div>
+

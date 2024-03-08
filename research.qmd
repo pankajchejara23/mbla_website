@@ -1,0 +1,28 @@
+---
+pagetitle: "Research"
+toc: true
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Research</li>
+  </ol>
+</nav>
+```
+
+## Research Topics
+### Learning Science
+
+- **Pedagogical approaches for developing HOTS** – Currently, we are researching to build a pedagogical-psychological model to assist teachers in the development of higher-order thinking skills among students.
+
+### Multimodal Learning Analytics
+
+- **Collaboration quality** – We investigate the potential of multimodal data (e.g., audio, video, logs) towards understanding collaboration behavior in classrooms. We build technological support for teachers based on our investigation utilizing multimodal data with machine learning techniques.
+
+
+### Teacher Professional Development
+
+- **Teacher training** – We build effective teacher training programs based on our research with a focus on pedagogical aspects in the context of the technology-enhanced learning environment. 
+

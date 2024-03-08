@@ -1,0 +1,180 @@
+---
+pagetitle: "People | mBLA"
+toc: false
+---
+
+
+
+::: {.grid}
+
+::: {.g-col-12} 
+::: {.profile}
+![](img/Kairit_Tammets.jpg){.profile-img .rounded-circle}
+
+[Kairit Tammets]{.profile-title .text-info} <br/>
+Principal Investigator  <br/>
+Tallinn University  <br/>
+[{{< fa link>}}](https://www.etis.ee/portal/persons/display/9ac0ce14-3c37-468c-b934-a36f9e07fa80/eng) [{{< fa brands google>}}](https://scholar.google.com/citations?user=3luCy_UAAAAJ&hl=en&oi=ao)
+:::
+:::
+
+:::
+
+
+
+::: {.grid}
+::: {.g-col-4} 
+::: {.profile}
+![](img/mart.jpg){.profile-img .rounded-circle}
+
+[Mart Laanpere]{.profile-title .text-info} <br/>
+Senior Research Staff<br/>
+Tallinn University  <br/>
+Tallinn, Estonia <br/>
+[{{< fa link>}}](https://www.etis.ee/portal/persons/display/7b980de2-1dc0-41e0-8928-03919cabbab2/eng) [{{< fa brands google>}}](https://scholar.google.com/citations?user=2TUI5a8AAAAJ&hl=en&oi=ao)
+:::
+:::
+
+::: {.g-col-4} 
+::: {.profile}
+![](img/terje.jpg){.profile-img .rounded-circle}
+
+[Terje Väljataga]{.profile-title .text-info} <br/>
+Senior Research Staff <br/>
+Tallinn University  <br/>
+Tallinn, Estonia <br/>
+[{{< fa link>}}](https://www.etis.ee/portal/persons/display/40f45cf8-d2d1-4aec-957d-8c08b88d830c/eng) [{{< fa brands google>}}](https://scholar.google.com/citations?user=eSota_AAAAAJ&hl=en&oi=ao)
+:::
+:::
+
+::: {.g-col-4} 
+::: {.profile}
+![](img/Tobias.jpg){.profile-img .rounded-circle}
+
+[Tobias Ley]{.profile-title .text-info} <br/>
+Senior Research Staff<br/>
+Tallinn University  <br/>
+Tallinn, Estonia <br/>
+[{{< fa link>}}](https://www.etis.ee/portal/persons/display/d04331f9-9a1b-4f61-8dde-7570015b0518/eng) [{{< fa brands google>}}](https://scholar.google.com/citations?hl=en&user=HSZrpJkAAAAJ)
+:::
+:::
+
+:::
+
+
+
+
+::: {.grid}
+::: {.g-col-4} 
+::: {.profile}
+![](img/maria.jpg){.profile-img .rounded-circle}
+
+[Maria Jesus Rodriguez Triana]{.profile-title .text-info} <br/>
+Senior Research Staff<br/>
+Tallinn University  <br/>
+Tallinn, Estonia <br/>
+[{{< fa link>}}](https://www.etis.ee/CV/Maria%20jesus_Rodriguez%20triana/est) [{{< fa brands google>}}](https://scholar.google.com/citations?user=bb0zCMEAAAAJ&hl=en&oi=ao)
+:::
+:::
+
+::: {.g-col-4} 
+::: {.profile}
+![](img/luis.jpg){.profile-img .rounded-circle}
+
+[Luis P. Prieto]{.profile-title .text-info} <br/>
+Senior Research Staff <br/>
+Universidad De Valladolid  <br/>
+Valladolid, Spain <br/>
+[{{< fa link>}}](https://www.etis.ee/portal/persons/display/40f45cf8-d2d1-4aec-957d-8c08b88d830c/eng) [{{< fa brands google>}}](https://scholar.google.com/citations?hl=en&user=ySpnj0MAAAAJ)
+:::
+:::
+
+::: {.g-col-4} 
+::: {.profile}
+![](img/reet.jpg){.profile-img-reet .rounded-circle}
+
+[Reet Kasepalu]{.profile-title .text-info} <br/>
+Research Staff<br/>
+Tallinn University  <br/>
+Tallinn, Estonia <br/>
+[{{< fa link>}}](https://www.etis.ee/CV/Reet_Kasepalu) 
+:::
+:::
+:::
+
+
+::: {.grid}
+::: {.g-col-4} 
+::: {.profile}
+![](img/juri.jpg){.profile-img-reet .rounded-circle}
+
+[Jüri Kurvits]{.profile-title .text-info} <br/>
+Research Staff<br/>
+Tallinn University  <br/>
+Tallinn, Estonia <br/>
+[{{< fa link>}}](https://www.etis.ee/portal/persons/display/2e5d6c66-0350-4f64-9c2f-0212e110c028/eng) 
+:::
+:::
+
+::: {.g-col-4} 
+::: {.profile}
+![](img/Manisha_Khulbe.jpg){.profile-img .rounded-circle}
+
+[Manisha Khulbe]{.profile-title .text-info} <br/>
+Research Staff <br/>
+Tallinn University  <br/>
+Tallinn, Estonia <br/>
+[{{< fa link>}}](https://www.etis.ee/portal/persons/display/7b6df461-b434-48ce-b518-83a9942fb613/eng) [{{< fa brands google>}}](https://scholar.google.com/citations?user=MBnaIJAAAAAJ&hl=en&oi=ao)
+:::
+:::
+
+::: {.g-col-4} 
+::: {.profile}
+![](img/pjotr.jpg){.profile-img-reet .rounded-circle}
+
+[Pjotr Savitski]{.profile-title .text-info} <br/>
+Senior Software Developer<br/>
+Tallinn University  <br/>
+Tallinn, Estonia <br/>
+[{{< fa link>}}](https://www.tlu.ee/inimesed/pjotr-savitski) 
+:::
+:::
+:::
+
+::: {.grid}
+::: {.g-col-4} 
+::: {.profile}
+![](img/user.png){.profile-img-reet .rounded-circle}
+
+[Jörgen Ivar Sikk]{.profile-title .text-info} <br/>
+Research Staff<br/>
+Tallinn University  <br/>
+Tallinn, Estonia <br/>
+[{{< fa link>}}](https://www.etis.ee/portal/persons/display/90c09683-ef71-430e-9b4f-8401668b4f19/eng) 
+:::
+:::
+
+::: {.g-col-4} 
+::: {.profile}
+![](img/milena.jpg){.profile-img .rounded-circle}
+
+[Edna Milena Sarmiento Marquez]{.profile-title .text-info} <br/>
+Research Staff <br/>
+Tallinn University  <br/>
+Tallinn, Estonia <br/>
+[{{< fa link>}}](https://www.etis.ee/portal/persons/display/26a29fe6-64db-490b-a9d9-529379f4486b/eng) [{{< fa brands google>}}](https://scholar.google.com/citations?user=-zurICoAAAAJ&hl=en&oi=ao)
+:::
+:::
+
+::: {.g-col-4} 
+::: {.profile}
+![](img/pankaj.jpg){.profile-img .rounded-circle}
+
+[Pankaj Chejara]{.profile-title .text-info} <br/>
+Research Staff<br/>
+Tallinn University  <br/>
+Tallinn, Estonia <br/>
+[{{< fa link>}}](https://www.etis.ee/portal/persons/display/f0c5c9cd-dc17-4ba4-b413-cd4246062adc/eng)  [{{< fa brands google>}}](https://scholar.google.com/citations?hl=en&user=TI9EsF4AAAAJ)
+:::
+:::
+:::
